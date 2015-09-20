@@ -1,0 +1,3 @@
+* (detached from tag-message-release-1.9.1) dc3e721d2358d9e6dc79d9b8afbba7cc2a55f901 Merge pull request #30 from magnetsystems/rich_messaging
+  release-1.9                               dc3e721d2358d9e6dc79d9b8afbba7cc2a55f901 Merge pull request #30 from magnetsystems/rich_messaging
+Build info: gh-message-samples-package, 138
